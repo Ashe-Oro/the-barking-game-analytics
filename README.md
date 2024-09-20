@@ -18,12 +18,10 @@ These metrics help provide a clearer understanding of The Barking Game’s influ
 
 ## Features
 
-- **Quantify Adoption**: Track how many accounts have participated in The Barking Game as bark givers or receivers using the **HBARk** token (Token ID: **0.0.5022567**).
+- **Quantify Adoption**: Track how many accounts have participated in The Barking Game as both bark givers or receivers.
 - **Measure Participation Level**: Assess the level at which users are engaging, including how many barks they’ve given or received.
-- **Token Balance Analysis**: Retrieve and analyze token balances of accounts that are actively participating in The Barking Game with the **HBARk** token.
-- **Bark Givers and Receivers Tracking**: Use custom APIs to track which accounts have actively barked and which have received barks, giving a detailed view of user engagement.
-- **Pagination Support**: Automatically paginate through large datasets to ensure comprehensive data collection.
-- **Real-time Insights**: Continuously provide up-to-date data on the current state of The Barking Game and its influence on the Hedera ecosystem.
+- **Token Associations**: Retrieve the total number of accounts that have associated with the **HBARk** token, even if balance currently = 0.
+
 
 ## Installation
 
